@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  padding-top: 3rem;
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin-left: 0.5rem;
+  font-size: 1rem;
+}
+
+input {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
